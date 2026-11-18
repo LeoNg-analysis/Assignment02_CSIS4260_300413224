@@ -100,7 +100,8 @@ def main():
     for row in url_records:
         url = row.get("url", "").strip()
 
-        if not url:
+        if row.get("status") in ("skipped", "failed"):
+            print(f"\nSKIPPED (previous attempt): {url}")
             continue
 
         if url in existing_urls:
@@ -144,7 +145,14 @@ def main():
             print("EXTRACTION FAILED:", error)
             row["status"] = "failed"
 
+        
         finally:
+            save_csv(
+                URL_FILE,
+                url_records,
+                ["url", "source", "status"]
+            )
+
             time.sleep(max(REQUEST_DELAY, crawl_delay or 0))
 
     save_csv(
@@ -152,6 +160,7 @@ def main():
         url_records,
         ["url", "source", "status"]
     )
+
 
     print("\nSCRAPING COMPLETE")
     print("Total articles:", len(articles))

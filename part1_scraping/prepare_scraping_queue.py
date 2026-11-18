@@ -8,7 +8,7 @@ DECODED_FILE = BASE_DIR / "data" / "decoded_articles.csv"
 QUEUE_FILE = BASE_DIR / "data" / "article_urls.csv"
 DATASET_FILE = BASE_DIR / "data" / "scraped_articles.csv"
 
-TEST_LIMIT = 10
+TEST_LIMIT = 50
 
 
 def read_csv(path):
