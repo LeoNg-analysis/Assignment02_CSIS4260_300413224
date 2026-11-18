@@ -1,0 +1,5 @@
+﻿url,library,parse_seconds,word_count,success
+https://www.ibm.com/think/topics/ai-agents,BeautifulSoup,0.044402,3910,True
+https://www.ibm.com/think/topics/ai-agents,Scrapy Selectors,0.007138,3807,True
+https://kpmg.com/us/en/articles/2025/ai-agents-shaping-talent-strategy.html,BeautifulSoup,0.05985,1921,True
+https://kpmg.com/us/en/articles/2025/ai-agents-shaping-talent-strategy.html,Scrapy Selectors,0.006816,1845,True
