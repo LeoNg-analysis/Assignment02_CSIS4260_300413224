@@ -1,5 +1,16 @@
 
 import csv
+import sys
+
+#Increase CSV field limit for long articles
+limit = sys.maxsize
+
+while True:
+    try:
+        csv.field_size_limit(limit)
+        break
+    except OverflowError:
+        limit //= 10
 import time
 from pathlib import Path
 from urllib.parse import urlparse

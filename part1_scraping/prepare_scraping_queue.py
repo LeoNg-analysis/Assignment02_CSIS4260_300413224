@@ -1,14 +1,23 @@
 
 import csv
 from pathlib import Path
+import sys
 
+limit = sys.maxsize
+
+while True:
+    try:
+        csv.field_size_limit(limit)
+        break
+    except OverflowError:
+        limit //= 10
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 DECODED_FILE = BASE_DIR / "data" / "decoded_articles.csv"
 QUEUE_FILE = BASE_DIR / "data" / "article_urls.csv"
 DATASET_FILE = BASE_DIR / "data" / "scraped_articles.csv"
 
-TEST_LIMIT = 50
+TEST_LIMIT = 20
 
 
 def read_csv(path):
