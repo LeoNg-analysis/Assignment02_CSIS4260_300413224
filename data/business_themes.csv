@@ -1,0 +1,701 @@
+﻿article_id,title,theme,mention_count,theme_present
+1,AI Agents: Shaping the Future of Workforce Strategy,APPLICATION_Customer_Service,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,APPLICATION_Sales,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,APPLICATION_Marketing,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,APPLICATION_Operations,1,1
+1,AI Agents: Shaping the Future of Workforce Strategy,APPLICATION_Data_Analytics,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,BENEFIT_Productivity,5,1
+1,AI Agents: Shaping the Future of Workforce Strategy,BENEFIT_Cost_Efficiency,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,BENEFIT_Automation,1,1
+1,AI Agents: Shaping the Future of Workforce Strategy,BENEFIT_Decision_Making,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,CHALLENGE_Security,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,CHALLENGE_Cost,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,CHALLENGE_Reliability,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,CHALLENGE_Integration,0,0
+1,AI Agents: Shaping the Future of Workforce Strategy,CHALLENGE_Human_Oversight,0,0
+2,What are AI agents?,APPLICATION_Customer_Service,2,1
+2,What are AI agents?,APPLICATION_Sales,0,0
+2,What are AI agents?,APPLICATION_Marketing,0,0
+2,What are AI agents?,APPLICATION_Operations,3,1
+2,What are AI agents?,APPLICATION_Data_Analytics,0,0
+2,What are AI agents?,BENEFIT_Productivity,1,1
+2,What are AI agents?,BENEFIT_Cost_Efficiency,0,0
+2,What are AI agents?,BENEFIT_Automation,11,1
+2,What are AI agents?,BENEFIT_Decision_Making,0,0
+2,What are AI agents?,CHALLENGE_Security,6,1
+2,What are AI agents?,CHALLENGE_Cost,0,0
+2,What are AI agents?,CHALLENGE_Reliability,0,0
+2,What are AI agents?,CHALLENGE_Integration,0,0
+2,What are AI agents?,CHALLENGE_Human_Oversight,5,1
+3,How AI agents are rewriting productivity | IBM,APPLICATION_Customer_Service,1,1
+3,How AI agents are rewriting productivity | IBM,APPLICATION_Sales,1,1
+3,How AI agents are rewriting productivity | IBM,APPLICATION_Marketing,0,0
+3,How AI agents are rewriting productivity | IBM,APPLICATION_Operations,2,1
+3,How AI agents are rewriting productivity | IBM,APPLICATION_Data_Analytics,0,0
+3,How AI agents are rewriting productivity | IBM,BENEFIT_Productivity,4,1
+3,How AI agents are rewriting productivity | IBM,BENEFIT_Cost_Efficiency,0,0
+3,How AI agents are rewriting productivity | IBM,BENEFIT_Automation,3,1
+3,How AI agents are rewriting productivity | IBM,BENEFIT_Decision_Making,0,0
+3,How AI agents are rewriting productivity | IBM,CHALLENGE_Security,0,0
+3,How AI agents are rewriting productivity | IBM,CHALLENGE_Cost,0,0
+3,How AI agents are rewriting productivity | IBM,CHALLENGE_Reliability,0,0
+3,How AI agents are rewriting productivity | IBM,CHALLENGE_Integration,0,0
+3,How AI agents are rewriting productivity | IBM,CHALLENGE_Human_Oversight,1,1
+4,"The future of work: AI agents as instruments, not co-workers",APPLICATION_Customer_Service,0,0
+4,"The future of work: AI agents as instruments, not co-workers",APPLICATION_Sales,0,0
+4,"The future of work: AI agents as instruments, not co-workers",APPLICATION_Marketing,0,0
+4,"The future of work: AI agents as instruments, not co-workers",APPLICATION_Operations,3,1
+4,"The future of work: AI agents as instruments, not co-workers",APPLICATION_Data_Analytics,0,0
+4,"The future of work: AI agents as instruments, not co-workers",BENEFIT_Productivity,6,1
+4,"The future of work: AI agents as instruments, not co-workers",BENEFIT_Cost_Efficiency,0,0
+4,"The future of work: AI agents as instruments, not co-workers",BENEFIT_Automation,4,1
+4,"The future of work: AI agents as instruments, not co-workers",BENEFIT_Decision_Making,0,0
+4,"The future of work: AI agents as instruments, not co-workers",CHALLENGE_Security,0,0
+4,"The future of work: AI agents as instruments, not co-workers",CHALLENGE_Cost,0,0
+4,"The future of work: AI agents as instruments, not co-workers",CHALLENGE_Reliability,0,0
+4,"The future of work: AI agents as instruments, not co-workers",CHALLENGE_Integration,0,0
+4,"The future of work: AI agents as instruments, not co-workers",CHALLENGE_Human_Oversight,1,1
+5,"Agentic AI, explained | MIT Sloan",APPLICATION_Customer_Service,1,1
+5,"Agentic AI, explained | MIT Sloan",APPLICATION_Sales,0,0
+5,"Agentic AI, explained | MIT Sloan",APPLICATION_Marketing,3,1
+5,"Agentic AI, explained | MIT Sloan",APPLICATION_Operations,3,1
+5,"Agentic AI, explained | MIT Sloan",APPLICATION_Data_Analytics,0,0
+5,"Agentic AI, explained | MIT Sloan",BENEFIT_Productivity,4,1
+5,"Agentic AI, explained | MIT Sloan",BENEFIT_Cost_Efficiency,1,1
+5,"Agentic AI, explained | MIT Sloan",BENEFIT_Automation,6,1
+5,"Agentic AI, explained | MIT Sloan",BENEFIT_Decision_Making,0,0
+5,"Agentic AI, explained | MIT Sloan",CHALLENGE_Security,2,1
+5,"Agentic AI, explained | MIT Sloan",CHALLENGE_Cost,0,0
+5,"Agentic AI, explained | MIT Sloan",CHALLENGE_Reliability,3,1
+5,"Agentic AI, explained | MIT Sloan",CHALLENGE_Integration,0,0
+5,"Agentic AI, explained | MIT Sloan",CHALLENGE_Human_Oversight,2,1
+6,MIT study reveals huge impact of AI agents on productivity,APPLICATION_Customer_Service,0,0
+6,MIT study reveals huge impact of AI agents on productivity,APPLICATION_Sales,0,0
+6,MIT study reveals huge impact of AI agents on productivity,APPLICATION_Marketing,0,0
+6,MIT study reveals huge impact of AI agents on productivity,APPLICATION_Operations,0,0
+6,MIT study reveals huge impact of AI agents on productivity,APPLICATION_Data_Analytics,0,0
+6,MIT study reveals huge impact of AI agents on productivity,BENEFIT_Productivity,6,1
+6,MIT study reveals huge impact of AI agents on productivity,BENEFIT_Cost_Efficiency,0,0
+6,MIT study reveals huge impact of AI agents on productivity,BENEFIT_Automation,0,0
+6,MIT study reveals huge impact of AI agents on productivity,BENEFIT_Decision_Making,0,0
+6,MIT study reveals huge impact of AI agents on productivity,CHALLENGE_Security,0,0
+6,MIT study reveals huge impact of AI agents on productivity,CHALLENGE_Cost,0,0
+6,MIT study reveals huge impact of AI agents on productivity,CHALLENGE_Reliability,0,0
+6,MIT study reveals huge impact of AI agents on productivity,CHALLENGE_Integration,0,0
+6,MIT study reveals huge impact of AI agents on productivity,CHALLENGE_Human_Oversight,0,0
+7,2025: The year the Frontier Firm is born,APPLICATION_Customer_Service,4,1
+7,2025: The year the Frontier Firm is born,APPLICATION_Sales,0,0
+7,2025: The year the Frontier Firm is born,APPLICATION_Marketing,6,1
+7,2025: The year the Frontier Firm is born,APPLICATION_Operations,12,1
+7,2025: The year the Frontier Firm is born,APPLICATION_Data_Analytics,1,1
+7,2025: The year the Frontier Firm is born,BENEFIT_Productivity,12,1
+7,2025: The year the Frontier Firm is born,BENEFIT_Cost_Efficiency,0,0
+7,2025: The year the Frontier Firm is born,BENEFIT_Automation,4,1
+7,2025: The year the Frontier Firm is born,BENEFIT_Decision_Making,0,0
+7,2025: The year the Frontier Firm is born,CHALLENGE_Security,3,1
+7,2025: The year the Frontier Firm is born,CHALLENGE_Cost,0,0
+7,2025: The year the Frontier Firm is born,CHALLENGE_Reliability,0,0
+7,2025: The year the Frontier Firm is born,CHALLENGE_Integration,0,0
+7,2025: The year the Frontier Firm is born,CHALLENGE_Human_Oversight,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,APPLICATION_Customer_Service,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,APPLICATION_Sales,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,APPLICATION_Marketing,1,1
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,APPLICATION_Operations,1,1
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,APPLICATION_Data_Analytics,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,BENEFIT_Productivity,3,1
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,BENEFIT_Cost_Efficiency,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,BENEFIT_Automation,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,BENEFIT_Decision_Making,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,CHALLENGE_Security,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,CHALLENGE_Cost,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,CHALLENGE_Reliability,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,CHALLENGE_Integration,0,0
+8,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,CHALLENGE_Human_Oversight,1,1
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",APPLICATION_Customer_Service,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",APPLICATION_Sales,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",APPLICATION_Marketing,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",APPLICATION_Operations,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",APPLICATION_Data_Analytics,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",BENEFIT_Productivity,2,1
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",BENEFIT_Cost_Efficiency,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",BENEFIT_Automation,4,1
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",BENEFIT_Decision_Making,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",CHALLENGE_Security,7,1
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",CHALLENGE_Cost,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",CHALLENGE_Reliability,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",CHALLENGE_Integration,0,0
+9,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",CHALLENGE_Human_Oversight,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,APPLICATION_Customer_Service,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,APPLICATION_Sales,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,APPLICATION_Marketing,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,APPLICATION_Operations,3,1
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,APPLICATION_Data_Analytics,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,BENEFIT_Productivity,56,1
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,BENEFIT_Cost_Efficiency,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,BENEFIT_Automation,4,1
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,BENEFIT_Decision_Making,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,CHALLENGE_Security,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,CHALLENGE_Cost,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,CHALLENGE_Reliability,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,CHALLENGE_Integration,0,0
+10,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,CHALLENGE_Human_Oversight,0,0
+11,How employment is changing at Anthropic,APPLICATION_Customer_Service,0,0
+11,How employment is changing at Anthropic,APPLICATION_Sales,9,1
+11,How employment is changing at Anthropic,APPLICATION_Marketing,0,0
+11,How employment is changing at Anthropic,APPLICATION_Operations,0,0
+11,How employment is changing at Anthropic,APPLICATION_Data_Analytics,0,0
+11,How employment is changing at Anthropic,BENEFIT_Productivity,13,1
+11,How employment is changing at Anthropic,BENEFIT_Cost_Efficiency,0,0
+11,How employment is changing at Anthropic,BENEFIT_Automation,18,1
+11,How employment is changing at Anthropic,BENEFIT_Decision_Making,0,0
+11,How employment is changing at Anthropic,CHALLENGE_Security,0,0
+11,How employment is changing at Anthropic,CHALLENGE_Cost,0,0
+11,How employment is changing at Anthropic,CHALLENGE_Reliability,1,1
+11,How employment is changing at Anthropic,CHALLENGE_Integration,0,0
+11,How employment is changing at Anthropic,CHALLENGE_Human_Oversight,0,0
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,APPLICATION_Customer_Service,1,1
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,APPLICATION_Sales,2,1
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,APPLICATION_Marketing,0,0
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,APPLICATION_Operations,1,1
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,APPLICATION_Data_Analytics,0,0
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,BENEFIT_Productivity,3,1
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,BENEFIT_Cost_Efficiency,0,0
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,BENEFIT_Automation,4,1
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,BENEFIT_Decision_Making,0,0
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,CHALLENGE_Security,1,1
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,CHALLENGE_Cost,0,0
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,CHALLENGE_Reliability,0,0
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,CHALLENGE_Integration,0,0
+12,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,CHALLENGE_Human_Oversight,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",APPLICATION_Customer_Service,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",APPLICATION_Sales,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",APPLICATION_Marketing,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",APPLICATION_Operations,4,1
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",APPLICATION_Data_Analytics,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",BENEFIT_Productivity,8,1
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",BENEFIT_Cost_Efficiency,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",BENEFIT_Automation,2,1
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",BENEFIT_Decision_Making,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",CHALLENGE_Security,3,1
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",CHALLENGE_Cost,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",CHALLENGE_Reliability,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",CHALLENGE_Integration,0,0
+13,"2026 Work Trend Index report: Agents, human agency, and opportunity",CHALLENGE_Human_Oversight,0,0
+14,Enterprise AI Agents: Beyond Productivity | IBM,APPLICATION_Customer_Service,3,1
+14,Enterprise AI Agents: Beyond Productivity | IBM,APPLICATION_Sales,1,1
+14,Enterprise AI Agents: Beyond Productivity | IBM,APPLICATION_Marketing,0,0
+14,Enterprise AI Agents: Beyond Productivity | IBM,APPLICATION_Operations,15,1
+14,Enterprise AI Agents: Beyond Productivity | IBM,APPLICATION_Data_Analytics,0,0
+14,Enterprise AI Agents: Beyond Productivity | IBM,BENEFIT_Productivity,7,1
+14,Enterprise AI Agents: Beyond Productivity | IBM,BENEFIT_Cost_Efficiency,0,0
+14,Enterprise AI Agents: Beyond Productivity | IBM,BENEFIT_Automation,5,1
+14,Enterprise AI Agents: Beyond Productivity | IBM,BENEFIT_Decision_Making,0,0
+14,Enterprise AI Agents: Beyond Productivity | IBM,CHALLENGE_Security,3,1
+14,Enterprise AI Agents: Beyond Productivity | IBM,CHALLENGE_Cost,0,0
+14,Enterprise AI Agents: Beyond Productivity | IBM,CHALLENGE_Reliability,0,0
+14,Enterprise AI Agents: Beyond Productivity | IBM,CHALLENGE_Integration,0,0
+14,Enterprise AI Agents: Beyond Productivity | IBM,CHALLENGE_Human_Oversight,1,1
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,APPLICATION_Customer_Service,0,0
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,APPLICATION_Sales,0,0
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,APPLICATION_Marketing,1,1
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,APPLICATION_Operations,2,1
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,APPLICATION_Data_Analytics,0,0
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,BENEFIT_Productivity,4,1
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,BENEFIT_Cost_Efficiency,1,1
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,BENEFIT_Automation,1,1
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,BENEFIT_Decision_Making,0,0
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,CHALLENGE_Security,1,1
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,CHALLENGE_Cost,0,0
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,CHALLENGE_Reliability,5,1
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,CHALLENGE_Integration,0,0
+15,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,CHALLENGE_Human_Oversight,2,1
+16,We are Changing our Developer Productivity Experiment Design,APPLICATION_Customer_Service,0,0
+16,We are Changing our Developer Productivity Experiment Design,APPLICATION_Sales,0,0
+16,We are Changing our Developer Productivity Experiment Design,APPLICATION_Marketing,0,0
+16,We are Changing our Developer Productivity Experiment Design,APPLICATION_Operations,0,0
+16,We are Changing our Developer Productivity Experiment Design,APPLICATION_Data_Analytics,0,0
+16,We are Changing our Developer Productivity Experiment Design,BENEFIT_Productivity,12,1
+16,We are Changing our Developer Productivity Experiment Design,BENEFIT_Cost_Efficiency,0,0
+16,We are Changing our Developer Productivity Experiment Design,BENEFIT_Automation,0,0
+16,We are Changing our Developer Productivity Experiment Design,BENEFIT_Decision_Making,0,0
+16,We are Changing our Developer Productivity Experiment Design,CHALLENGE_Security,0,0
+16,We are Changing our Developer Productivity Experiment Design,CHALLENGE_Cost,0,0
+16,We are Changing our Developer Productivity Experiment Design,CHALLENGE_Reliability,3,1
+16,We are Changing our Developer Productivity Experiment Design,CHALLENGE_Integration,0,0
+16,We are Changing our Developer Productivity Experiment Design,CHALLENGE_Human_Oversight,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,APPLICATION_Customer_Service,9,1
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,APPLICATION_Sales,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,APPLICATION_Marketing,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,APPLICATION_Operations,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,APPLICATION_Data_Analytics,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,BENEFIT_Productivity,2,1
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,BENEFIT_Cost_Efficiency,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,BENEFIT_Automation,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,BENEFIT_Decision_Making,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,CHALLENGE_Security,5,1
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,CHALLENGE_Cost,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,CHALLENGE_Reliability,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,CHALLENGE_Integration,0,0
+17,The AI Agent Hype Is Real. The Productivity Gains Aren’t,CHALLENGE_Human_Oversight,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,APPLICATION_Customer_Service,1,1
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,APPLICATION_Sales,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,APPLICATION_Marketing,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,APPLICATION_Operations,1,1
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,APPLICATION_Data_Analytics,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,BENEFIT_Productivity,4,1
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,BENEFIT_Cost_Efficiency,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,BENEFIT_Automation,5,1
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,BENEFIT_Decision_Making,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,CHALLENGE_Security,10,1
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,CHALLENGE_Cost,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,CHALLENGE_Reliability,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,CHALLENGE_Integration,0,0
+18,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,CHALLENGE_Human_Oversight,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,APPLICATION_Customer_Service,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,APPLICATION_Sales,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,APPLICATION_Marketing,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,APPLICATION_Operations,2,1
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,APPLICATION_Data_Analytics,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,BENEFIT_Productivity,5,1
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,BENEFIT_Cost_Efficiency,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,BENEFIT_Automation,4,1
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,BENEFIT_Decision_Making,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,CHALLENGE_Security,1,1
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,CHALLENGE_Cost,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,CHALLENGE_Reliability,1,1
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,CHALLENGE_Integration,0,0
+19,Catching AI’s mistakes is a mental burden – and a drag on productivity,CHALLENGE_Human_Oversight,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,APPLICATION_Customer_Service,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,APPLICATION_Sales,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,APPLICATION_Marketing,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,APPLICATION_Operations,2,1
+20,AI Agents Are Poised to Revolutionize Employee Productivity,APPLICATION_Data_Analytics,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,BENEFIT_Productivity,7,1
+20,AI Agents Are Poised to Revolutionize Employee Productivity,BENEFIT_Cost_Efficiency,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,BENEFIT_Automation,8,1
+20,AI Agents Are Poised to Revolutionize Employee Productivity,BENEFIT_Decision_Making,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,CHALLENGE_Security,3,1
+20,AI Agents Are Poised to Revolutionize Employee Productivity,CHALLENGE_Cost,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,CHALLENGE_Reliability,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,CHALLENGE_Integration,0,0
+20,AI Agents Are Poised to Revolutionize Employee Productivity,CHALLENGE_Human_Oversight,0,0
+21,This Week: AI Agents Untangle Work’s Hidden Friction,APPLICATION_Customer_Service,1,1
+21,This Week: AI Agents Untangle Work’s Hidden Friction,APPLICATION_Sales,0,0
+21,This Week: AI Agents Untangle Work’s Hidden Friction,APPLICATION_Marketing,6,1
+21,This Week: AI Agents Untangle Work’s Hidden Friction,APPLICATION_Operations,10,1
+21,This Week: AI Agents Untangle Work’s Hidden Friction,APPLICATION_Data_Analytics,0,0
+21,This Week: AI Agents Untangle Work’s Hidden Friction,BENEFIT_Productivity,7,1
+21,This Week: AI Agents Untangle Work’s Hidden Friction,BENEFIT_Cost_Efficiency,0,0
+21,This Week: AI Agents Untangle Work’s Hidden Friction,BENEFIT_Automation,2,1
+21,This Week: AI Agents Untangle Work’s Hidden Friction,BENEFIT_Decision_Making,0,0
+21,This Week: AI Agents Untangle Work’s Hidden Friction,CHALLENGE_Security,1,1
+21,This Week: AI Agents Untangle Work’s Hidden Friction,CHALLENGE_Cost,0,0
+21,This Week: AI Agents Untangle Work’s Hidden Friction,CHALLENGE_Reliability,0,0
+21,This Week: AI Agents Untangle Work’s Hidden Friction,CHALLENGE_Integration,0,0
+21,This Week: AI Agents Untangle Work’s Hidden Friction,CHALLENGE_Human_Oversight,0,0
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,APPLICATION_Customer_Service,4,1
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,APPLICATION_Sales,1,1
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,APPLICATION_Marketing,1,1
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,APPLICATION_Operations,2,1
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,APPLICATION_Data_Analytics,0,0
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,BENEFIT_Productivity,4,1
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,BENEFIT_Cost_Efficiency,0,0
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,BENEFIT_Automation,9,1
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,BENEFIT_Decision_Making,1,1
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,CHALLENGE_Security,0,0
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,CHALLENGE_Cost,0,0
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,CHALLENGE_Reliability,0,0
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,CHALLENGE_Integration,0,0
+22,AI Workforce: How Artificial Intelligence Is Transforming Teams,CHALLENGE_Human_Oversight,3,1
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,APPLICATION_Customer_Service,3,1
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,APPLICATION_Sales,4,1
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,APPLICATION_Marketing,0,0
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,APPLICATION_Operations,4,1
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,APPLICATION_Data_Analytics,0,0
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,BENEFIT_Productivity,7,1
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,BENEFIT_Cost_Efficiency,0,0
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,BENEFIT_Automation,10,1
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,BENEFIT_Decision_Making,0,0
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,CHALLENGE_Security,3,1
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,CHALLENGE_Cost,0,0
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,CHALLENGE_Reliability,0,0
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,CHALLENGE_Integration,0,0
+23,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,CHALLENGE_Human_Oversight,0,0
+24,How IT leaders use agentic AI for business workflows,APPLICATION_Customer_Service,5,1
+24,How IT leaders use agentic AI for business workflows,APPLICATION_Sales,14,1
+24,How IT leaders use agentic AI for business workflows,APPLICATION_Marketing,2,1
+24,How IT leaders use agentic AI for business workflows,APPLICATION_Operations,9,1
+24,How IT leaders use agentic AI for business workflows,APPLICATION_Data_Analytics,2,1
+24,How IT leaders use agentic AI for business workflows,BENEFIT_Productivity,4,1
+24,How IT leaders use agentic AI for business workflows,BENEFIT_Cost_Efficiency,1,1
+24,How IT leaders use agentic AI for business workflows,BENEFIT_Automation,11,1
+24,How IT leaders use agentic AI for business workflows,BENEFIT_Decision_Making,0,0
+24,How IT leaders use agentic AI for business workflows,CHALLENGE_Security,3,1
+24,How IT leaders use agentic AI for business workflows,CHALLENGE_Cost,0,0
+24,How IT leaders use agentic AI for business workflows,CHALLENGE_Reliability,0,0
+24,How IT leaders use agentic AI for business workflows,CHALLENGE_Integration,0,0
+24,How IT leaders use agentic AI for business workflows,CHALLENGE_Human_Oversight,0,0
+25,How Agentic AI Is Transforming Enterprise Platforms,APPLICATION_Customer_Service,3,1
+25,How Agentic AI Is Transforming Enterprise Platforms,APPLICATION_Sales,2,1
+25,How Agentic AI Is Transforming Enterprise Platforms,APPLICATION_Marketing,5,1
+25,How Agentic AI Is Transforming Enterprise Platforms,APPLICATION_Operations,12,1
+25,How Agentic AI Is Transforming Enterprise Platforms,APPLICATION_Data_Analytics,1,1
+25,How Agentic AI Is Transforming Enterprise Platforms,BENEFIT_Productivity,4,1
+25,How Agentic AI Is Transforming Enterprise Platforms,BENEFIT_Cost_Efficiency,0,0
+25,How Agentic AI Is Transforming Enterprise Platforms,BENEFIT_Automation,10,1
+25,How Agentic AI Is Transforming Enterprise Platforms,BENEFIT_Decision_Making,1,1
+25,How Agentic AI Is Transforming Enterprise Platforms,CHALLENGE_Security,1,1
+25,How Agentic AI Is Transforming Enterprise Platforms,CHALLENGE_Cost,0,0
+25,How Agentic AI Is Transforming Enterprise Platforms,CHALLENGE_Reliability,0,0
+25,How Agentic AI Is Transforming Enterprise Platforms,CHALLENGE_Integration,2,1
+25,How Agentic AI Is Transforming Enterprise Platforms,CHALLENGE_Human_Oversight,4,1
+26,How banks can supercharge intelligent automation with agentic AI,APPLICATION_Customer_Service,0,0
+26,How banks can supercharge intelligent automation with agentic AI,APPLICATION_Sales,0,0
+26,How banks can supercharge intelligent automation with agentic AI,APPLICATION_Marketing,0,0
+26,How banks can supercharge intelligent automation with agentic AI,APPLICATION_Operations,7,1
+26,How banks can supercharge intelligent automation with agentic AI,APPLICATION_Data_Analytics,0,0
+26,How banks can supercharge intelligent automation with agentic AI,BENEFIT_Productivity,3,1
+26,How banks can supercharge intelligent automation with agentic AI,BENEFIT_Cost_Efficiency,0,0
+26,How banks can supercharge intelligent automation with agentic AI,BENEFIT_Automation,21,1
+26,How banks can supercharge intelligent automation with agentic AI,BENEFIT_Decision_Making,1,1
+26,How banks can supercharge intelligent automation with agentic AI,CHALLENGE_Security,2,1
+26,How banks can supercharge intelligent automation with agentic AI,CHALLENGE_Cost,1,1
+26,How banks can supercharge intelligent automation with agentic AI,CHALLENGE_Reliability,0,0
+26,How banks can supercharge intelligent automation with agentic AI,CHALLENGE_Integration,4,1
+26,How banks can supercharge intelligent automation with agentic AI,CHALLENGE_Human_Oversight,3,1
+27,Agentic AI: The next wave of intelligent process automation,APPLICATION_Customer_Service,2,1
+27,Agentic AI: The next wave of intelligent process automation,APPLICATION_Sales,0,0
+27,Agentic AI: The next wave of intelligent process automation,APPLICATION_Marketing,1,1
+27,Agentic AI: The next wave of intelligent process automation,APPLICATION_Operations,1,1
+27,Agentic AI: The next wave of intelligent process automation,APPLICATION_Data_Analytics,0,0
+27,Agentic AI: The next wave of intelligent process automation,BENEFIT_Productivity,2,1
+27,Agentic AI: The next wave of intelligent process automation,BENEFIT_Cost_Efficiency,1,1
+27,Agentic AI: The next wave of intelligent process automation,BENEFIT_Automation,21,1
+27,Agentic AI: The next wave of intelligent process automation,BENEFIT_Decision_Making,0,0
+27,Agentic AI: The next wave of intelligent process automation,CHALLENGE_Security,4,1
+27,Agentic AI: The next wave of intelligent process automation,CHALLENGE_Cost,0,0
+27,Agentic AI: The next wave of intelligent process automation,CHALLENGE_Reliability,0,0
+27,Agentic AI: The next wave of intelligent process automation,CHALLENGE_Integration,0,0
+27,Agentic AI: The next wave of intelligent process automation,CHALLENGE_Human_Oversight,3,1
+28,How to know a business process is ripe for agentic AI,APPLICATION_Customer_Service,8,1
+28,How to know a business process is ripe for agentic AI,APPLICATION_Sales,1,1
+28,How to know a business process is ripe for agentic AI,APPLICATION_Marketing,0,0
+28,How to know a business process is ripe for agentic AI,APPLICATION_Operations,10,1
+28,How to know a business process is ripe for agentic AI,APPLICATION_Data_Analytics,0,0
+28,How to know a business process is ripe for agentic AI,BENEFIT_Productivity,0,0
+28,How to know a business process is ripe for agentic AI,BENEFIT_Cost_Efficiency,0,0
+28,How to know a business process is ripe for agentic AI,BENEFIT_Automation,10,1
+28,How to know a business process is ripe for agentic AI,BENEFIT_Decision_Making,0,0
+28,How to know a business process is ripe for agentic AI,CHALLENGE_Security,1,1
+28,How to know a business process is ripe for agentic AI,CHALLENGE_Cost,0,0
+28,How to know a business process is ripe for agentic AI,CHALLENGE_Reliability,0,0
+28,How to know a business process is ripe for agentic AI,CHALLENGE_Integration,0,0
+28,How to know a business process is ripe for agentic AI,CHALLENGE_Human_Oversight,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,APPLICATION_Customer_Service,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,APPLICATION_Sales,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,APPLICATION_Marketing,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,APPLICATION_Operations,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,APPLICATION_Data_Analytics,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,BENEFIT_Productivity,2,1
+29,How to navigate the age of agentic AI | MIT Sloan,BENEFIT_Cost_Efficiency,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,BENEFIT_Automation,2,1
+29,How to navigate the age of agentic AI | MIT Sloan,BENEFIT_Decision_Making,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,CHALLENGE_Security,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,CHALLENGE_Cost,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,CHALLENGE_Reliability,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,CHALLENGE_Integration,0,0
+29,How to navigate the age of agentic AI | MIT Sloan,CHALLENGE_Human_Oversight,1,1
+30,Agentic AI: 11 promising use cases for business,APPLICATION_Customer_Service,10,1
+30,Agentic AI: 11 promising use cases for business,APPLICATION_Sales,0,0
+30,Agentic AI: 11 promising use cases for business,APPLICATION_Marketing,6,1
+30,Agentic AI: 11 promising use cases for business,APPLICATION_Operations,6,1
+30,Agentic AI: 11 promising use cases for business,APPLICATION_Data_Analytics,4,1
+30,Agentic AI: 11 promising use cases for business,BENEFIT_Productivity,8,1
+30,Agentic AI: 11 promising use cases for business,BENEFIT_Cost_Efficiency,1,1
+30,Agentic AI: 11 promising use cases for business,BENEFIT_Automation,20,1
+30,Agentic AI: 11 promising use cases for business,BENEFIT_Decision_Making,1,1
+30,Agentic AI: 11 promising use cases for business,CHALLENGE_Security,7,1
+30,Agentic AI: 11 promising use cases for business,CHALLENGE_Cost,0,0
+30,Agentic AI: 11 promising use cases for business,CHALLENGE_Reliability,1,1
+30,Agentic AI: 11 promising use cases for business,CHALLENGE_Integration,0,0
+30,Agentic AI: 11 promising use cases for business,CHALLENGE_Human_Oversight,1,1
+31,The Benefits of AI for Business | IBM,APPLICATION_Customer_Service,0,0
+31,The Benefits of AI for Business | IBM,APPLICATION_Sales,1,1
+31,The Benefits of AI for Business | IBM,APPLICATION_Marketing,1,1
+31,The Benefits of AI for Business | IBM,APPLICATION_Operations,3,1
+31,The Benefits of AI for Business | IBM,APPLICATION_Data_Analytics,5,1
+31,The Benefits of AI for Business | IBM,BENEFIT_Productivity,8,1
+31,The Benefits of AI for Business | IBM,BENEFIT_Cost_Efficiency,2,1
+31,The Benefits of AI for Business | IBM,BENEFIT_Automation,11,1
+31,The Benefits of AI for Business | IBM,BENEFIT_Decision_Making,1,1
+31,The Benefits of AI for Business | IBM,CHALLENGE_Security,6,1
+31,The Benefits of AI for Business | IBM,CHALLENGE_Cost,0,0
+31,The Benefits of AI for Business | IBM,CHALLENGE_Reliability,0,0
+31,The Benefits of AI for Business | IBM,CHALLENGE_Integration,1,1
+31,The Benefits of AI for Business | IBM,CHALLENGE_Human_Oversight,1,1
+32,Agentic AI Security Guide | IBM,APPLICATION_Customer_Service,0,0
+32,Agentic AI Security Guide | IBM,APPLICATION_Sales,0,0
+32,Agentic AI Security Guide | IBM,APPLICATION_Marketing,0,0
+32,Agentic AI Security Guide | IBM,APPLICATION_Operations,0,0
+32,Agentic AI Security Guide | IBM,APPLICATION_Data_Analytics,0,0
+32,Agentic AI Security Guide | IBM,BENEFIT_Productivity,0,0
+32,Agentic AI Security Guide | IBM,BENEFIT_Cost_Efficiency,0,0
+32,Agentic AI Security Guide | IBM,BENEFIT_Automation,6,1
+32,Agentic AI Security Guide | IBM,BENEFIT_Decision_Making,0,0
+32,Agentic AI Security Guide | IBM,CHALLENGE_Security,15,1
+32,Agentic AI Security Guide | IBM,CHALLENGE_Cost,0,0
+32,Agentic AI Security Guide | IBM,CHALLENGE_Reliability,0,0
+32,Agentic AI Security Guide | IBM,CHALLENGE_Integration,0,0
+32,Agentic AI Security Guide | IBM,CHALLENGE_Human_Oversight,3,1
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",APPLICATION_Customer_Service,1,1
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",APPLICATION_Sales,0,0
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",APPLICATION_Marketing,1,1
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",APPLICATION_Operations,2,1
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",APPLICATION_Data_Analytics,0,0
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",BENEFIT_Productivity,0,0
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",BENEFIT_Cost_Efficiency,1,1
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",BENEFIT_Automation,3,1
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",BENEFIT_Decision_Making,0,0
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",CHALLENGE_Security,0,0
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",CHALLENGE_Cost,0,0
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",CHALLENGE_Reliability,0,0
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",CHALLENGE_Integration,0,0
+33,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",CHALLENGE_Human_Oversight,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,APPLICATION_Customer_Service,3,1
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,APPLICATION_Sales,5,1
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,APPLICATION_Marketing,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,APPLICATION_Operations,4,1
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,APPLICATION_Data_Analytics,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,BENEFIT_Productivity,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,BENEFIT_Cost_Efficiency,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,BENEFIT_Automation,15,1
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,BENEFIT_Decision_Making,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,CHALLENGE_Security,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,CHALLENGE_Cost,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,CHALLENGE_Reliability,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,CHALLENGE_Integration,0,0
+34,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,CHALLENGE_Human_Oversight,5,1
+35,How AI agents are shaping the future of work,APPLICATION_Customer_Service,1,1
+35,How AI agents are shaping the future of work,APPLICATION_Sales,0,0
+35,How AI agents are shaping the future of work,APPLICATION_Marketing,1,1
+35,How AI agents are shaping the future of work,APPLICATION_Operations,2,1
+35,How AI agents are shaping the future of work,APPLICATION_Data_Analytics,0,0
+35,How AI agents are shaping the future of work,BENEFIT_Productivity,2,1
+35,How AI agents are shaping the future of work,BENEFIT_Cost_Efficiency,0,0
+35,How AI agents are shaping the future of work,BENEFIT_Automation,7,1
+35,How AI agents are shaping the future of work,BENEFIT_Decision_Making,0,0
+35,How AI agents are shaping the future of work,CHALLENGE_Security,1,1
+35,How AI agents are shaping the future of work,CHALLENGE_Cost,0,0
+35,How AI agents are shaping the future of work,CHALLENGE_Reliability,0,0
+35,How AI agents are shaping the future of work,CHALLENGE_Integration,0,0
+35,How AI agents are shaping the future of work,CHALLENGE_Human_Oversight,0,0
+36,How will AI agents fit into the human workplace?,APPLICATION_Customer_Service,1,1
+36,How will AI agents fit into the human workplace?,APPLICATION_Sales,0,0
+36,How will AI agents fit into the human workplace?,APPLICATION_Marketing,0,0
+36,How will AI agents fit into the human workplace?,APPLICATION_Operations,1,1
+36,How will AI agents fit into the human workplace?,APPLICATION_Data_Analytics,0,0
+36,How will AI agents fit into the human workplace?,BENEFIT_Productivity,1,1
+36,How will AI agents fit into the human workplace?,BENEFIT_Cost_Efficiency,0,0
+36,How will AI agents fit into the human workplace?,BENEFIT_Automation,5,1
+36,How will AI agents fit into the human workplace?,BENEFIT_Decision_Making,0,0
+36,How will AI agents fit into the human workplace?,CHALLENGE_Security,0,0
+36,How will AI agents fit into the human workplace?,CHALLENGE_Cost,0,0
+36,How will AI agents fit into the human workplace?,CHALLENGE_Reliability,1,1
+36,How will AI agents fit into the human workplace?,CHALLENGE_Integration,0,0
+36,How will AI agents fit into the human workplace?,CHALLENGE_Human_Oversight,1,1
+37,25 Ways AI Will Change the Future of Work,APPLICATION_Customer_Service,1,1
+37,25 Ways AI Will Change the Future of Work,APPLICATION_Sales,6,1
+37,25 Ways AI Will Change the Future of Work,APPLICATION_Marketing,8,1
+37,25 Ways AI Will Change the Future of Work,APPLICATION_Operations,3,1
+37,25 Ways AI Will Change the Future of Work,APPLICATION_Data_Analytics,1,1
+37,25 Ways AI Will Change the Future of Work,BENEFIT_Productivity,12,1
+37,25 Ways AI Will Change the Future of Work,BENEFIT_Cost_Efficiency,0,0
+37,25 Ways AI Will Change the Future of Work,BENEFIT_Automation,13,1
+37,25 Ways AI Will Change the Future of Work,BENEFIT_Decision_Making,2,1
+37,25 Ways AI Will Change the Future of Work,CHALLENGE_Security,1,1
+37,25 Ways AI Will Change the Future of Work,CHALLENGE_Cost,0,0
+37,25 Ways AI Will Change the Future of Work,CHALLENGE_Reliability,0,0
+37,25 Ways AI Will Change the Future of Work,CHALLENGE_Integration,0,0
+37,25 Ways AI Will Change the Future of Work,CHALLENGE_Human_Oversight,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,APPLICATION_Customer_Service,1,1
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,APPLICATION_Sales,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,APPLICATION_Marketing,1,1
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,APPLICATION_Operations,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,APPLICATION_Data_Analytics,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,BENEFIT_Productivity,1,1
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,BENEFIT_Cost_Efficiency,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,BENEFIT_Automation,1,1
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,BENEFIT_Decision_Making,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,CHALLENGE_Security,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,CHALLENGE_Cost,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,CHALLENGE_Reliability,1,1
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,CHALLENGE_Integration,0,0
+38,AI Agents Are About to Flood the Workforce. No One’s Ready for It,CHALLENGE_Human_Oversight,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,APPLICATION_Customer_Service,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,APPLICATION_Sales,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,APPLICATION_Marketing,1,1
+39,Rethinking Strategic Workforce Planning with AI Agents,APPLICATION_Operations,6,1
+39,Rethinking Strategic Workforce Planning with AI Agents,APPLICATION_Data_Analytics,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,BENEFIT_Productivity,9,1
+39,Rethinking Strategic Workforce Planning with AI Agents,BENEFIT_Cost_Efficiency,1,1
+39,Rethinking Strategic Workforce Planning with AI Agents,BENEFIT_Automation,2,1
+39,Rethinking Strategic Workforce Planning with AI Agents,BENEFIT_Decision_Making,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,CHALLENGE_Security,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,CHALLENGE_Cost,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,CHALLENGE_Reliability,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,CHALLENGE_Integration,0,0
+39,Rethinking Strategic Workforce Planning with AI Agents,CHALLENGE_Human_Oversight,1,1
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,APPLICATION_Customer_Service,1,1
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,APPLICATION_Sales,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,APPLICATION_Marketing,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,APPLICATION_Operations,7,1
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,APPLICATION_Data_Analytics,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,BENEFIT_Productivity,1,1
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,BENEFIT_Cost_Efficiency,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,BENEFIT_Automation,11,1
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,BENEFIT_Decision_Making,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,CHALLENGE_Security,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,CHALLENGE_Cost,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,CHALLENGE_Reliability,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,CHALLENGE_Integration,0,0
+40,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,CHALLENGE_Human_Oversight,2,1
+41,AI in the Workplace | IBM,APPLICATION_Customer_Service,5,1
+41,AI in the Workplace | IBM,APPLICATION_Sales,5,1
+41,AI in the Workplace | IBM,APPLICATION_Marketing,6,1
+41,AI in the Workplace | IBM,APPLICATION_Operations,7,1
+41,AI in the Workplace | IBM,APPLICATION_Data_Analytics,1,1
+41,AI in the Workplace | IBM,BENEFIT_Productivity,12,1
+41,AI in the Workplace | IBM,BENEFIT_Cost_Efficiency,2,1
+41,AI in the Workplace | IBM,BENEFIT_Automation,8,1
+41,AI in the Workplace | IBM,BENEFIT_Decision_Making,0,0
+41,AI in the Workplace | IBM,CHALLENGE_Security,4,1
+41,AI in the Workplace | IBM,CHALLENGE_Cost,1,1
+41,AI in the Workplace | IBM,CHALLENGE_Reliability,0,0
+41,AI in the Workplace | IBM,CHALLENGE_Integration,0,0
+41,AI in the Workplace | IBM,CHALLENGE_Human_Oversight,0,0
+42,The agentic reality check: Preparing for a silicon-based workforce,APPLICATION_Customer_Service,0,0
+42,The agentic reality check: Preparing for a silicon-based workforce,APPLICATION_Sales,0,0
+42,The agentic reality check: Preparing for a silicon-based workforce,APPLICATION_Marketing,0,0
+42,The agentic reality check: Preparing for a silicon-based workforce,APPLICATION_Operations,11,1
+42,The agentic reality check: Preparing for a silicon-based workforce,APPLICATION_Data_Analytics,1,1
+42,The agentic reality check: Preparing for a silicon-based workforce,BENEFIT_Productivity,2,1
+42,The agentic reality check: Preparing for a silicon-based workforce,BENEFIT_Cost_Efficiency,0,0
+42,The agentic reality check: Preparing for a silicon-based workforce,BENEFIT_Automation,18,1
+42,The agentic reality check: Preparing for a silicon-based workforce,BENEFIT_Decision_Making,0,0
+42,The agentic reality check: Preparing for a silicon-based workforce,CHALLENGE_Security,1,1
+42,The agentic reality check: Preparing for a silicon-based workforce,CHALLENGE_Cost,3,1
+42,The agentic reality check: Preparing for a silicon-based workforce,CHALLENGE_Reliability,0,0
+42,The agentic reality check: Preparing for a silicon-based workforce,CHALLENGE_Integration,4,1
+42,The agentic reality check: Preparing for a silicon-based workforce,CHALLENGE_Human_Oversight,1,1
+43,AI Will Reshape More Jobs Than It Replaces,APPLICATION_Customer_Service,0,0
+43,AI Will Reshape More Jobs Than It Replaces,APPLICATION_Sales,2,1
+43,AI Will Reshape More Jobs Than It Replaces,APPLICATION_Marketing,2,1
+43,AI Will Reshape More Jobs Than It Replaces,APPLICATION_Operations,4,1
+43,AI Will Reshape More Jobs Than It Replaces,APPLICATION_Data_Analytics,0,0
+43,AI Will Reshape More Jobs Than It Replaces,BENEFIT_Productivity,29,1
+43,AI Will Reshape More Jobs Than It Replaces,BENEFIT_Cost_Efficiency,3,1
+43,AI Will Reshape More Jobs Than It Replaces,BENEFIT_Automation,38,1
+43,AI Will Reshape More Jobs Than It Replaces,BENEFIT_Decision_Making,2,1
+43,AI Will Reshape More Jobs Than It Replaces,CHALLENGE_Security,1,1
+43,AI Will Reshape More Jobs Than It Replaces,CHALLENGE_Cost,0,0
+43,AI Will Reshape More Jobs Than It Replaces,CHALLENGE_Reliability,0,0
+43,AI Will Reshape More Jobs Than It Replaces,CHALLENGE_Integration,2,1
+43,AI Will Reshape More Jobs Than It Replaces,CHALLENGE_Human_Oversight,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,APPLICATION_Customer_Service,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,APPLICATION_Sales,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,APPLICATION_Marketing,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,APPLICATION_Operations,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,APPLICATION_Data_Analytics,1,1
+44,AI at Work: How human-agent teams will reshape your workforce,BENEFIT_Productivity,1,1
+44,AI at Work: How human-agent teams will reshape your workforce,BENEFIT_Cost_Efficiency,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,BENEFIT_Automation,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,BENEFIT_Decision_Making,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,CHALLENGE_Security,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,CHALLENGE_Cost,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,CHALLENGE_Reliability,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,CHALLENGE_Integration,0,0
+44,AI at Work: How human-agent teams will reshape your workforce,CHALLENGE_Human_Oversight,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",APPLICATION_Customer_Service,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",APPLICATION_Sales,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",APPLICATION_Marketing,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",APPLICATION_Operations,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",APPLICATION_Data_Analytics,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",BENEFIT_Productivity,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",BENEFIT_Cost_Efficiency,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",BENEFIT_Automation,3,1
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",BENEFIT_Decision_Making,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",CHALLENGE_Security,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",CHALLENGE_Cost,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",CHALLENGE_Reliability,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",CHALLENGE_Integration,0,0
+45,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",CHALLENGE_Human_Oversight,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,APPLICATION_Customer_Service,1,1
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,APPLICATION_Sales,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,APPLICATION_Marketing,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,APPLICATION_Operations,1,1
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,APPLICATION_Data_Analytics,1,1
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,BENEFIT_Productivity,3,1
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,BENEFIT_Cost_Efficiency,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,BENEFIT_Automation,2,1
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,BENEFIT_Decision_Making,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,CHALLENGE_Security,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,CHALLENGE_Cost,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,CHALLENGE_Reliability,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,CHALLENGE_Integration,0,0
+46,AI's Human Impact: How Agentic Technology Is Reshaping Work,CHALLENGE_Human_Oversight,1,1
+47,The capability risk of agentic AI,APPLICATION_Customer_Service,1,1
+47,The capability risk of agentic AI,APPLICATION_Sales,0,0
+47,The capability risk of agentic AI,APPLICATION_Marketing,0,0
+47,The capability risk of agentic AI,APPLICATION_Operations,5,1
+47,The capability risk of agentic AI,APPLICATION_Data_Analytics,0,0
+47,The capability risk of agentic AI,BENEFIT_Productivity,9,1
+47,The capability risk of agentic AI,BENEFIT_Cost_Efficiency,0,0
+47,The capability risk of agentic AI,BENEFIT_Automation,10,1
+47,The capability risk of agentic AI,BENEFIT_Decision_Making,0,0
+47,The capability risk of agentic AI,CHALLENGE_Security,1,1
+47,The capability risk of agentic AI,CHALLENGE_Cost,0,0
+47,The capability risk of agentic AI,CHALLENGE_Reliability,0,0
+47,The capability risk of agentic AI,CHALLENGE_Integration,0,0
+47,The capability risk of agentic AI,CHALLENGE_Human_Oversight,0,0
+48,Agentic AI is here | IBM,APPLICATION_Customer_Service,0,0
+48,Agentic AI is here | IBM,APPLICATION_Sales,0,0
+48,Agentic AI is here | IBM,APPLICATION_Marketing,0,0
+48,Agentic AI is here | IBM,APPLICATION_Operations,1,1
+48,Agentic AI is here | IBM,APPLICATION_Data_Analytics,0,0
+48,Agentic AI is here | IBM,BENEFIT_Productivity,2,1
+48,Agentic AI is here | IBM,BENEFIT_Cost_Efficiency,0,0
+48,Agentic AI is here | IBM,BENEFIT_Automation,1,1
+48,Agentic AI is here | IBM,BENEFIT_Decision_Making,0,0
+48,Agentic AI is here | IBM,CHALLENGE_Security,2,1
+48,Agentic AI is here | IBM,CHALLENGE_Cost,0,0
+48,Agentic AI is here | IBM,CHALLENGE_Reliability,0,0
+48,Agentic AI is here | IBM,CHALLENGE_Integration,0,0
+48,Agentic AI is here | IBM,CHALLENGE_Human_Oversight,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,APPLICATION_Customer_Service,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,APPLICATION_Sales,1,1
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,APPLICATION_Marketing,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,APPLICATION_Operations,3,1
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,APPLICATION_Data_Analytics,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,BENEFIT_Productivity,5,1
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,BENEFIT_Cost_Efficiency,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,BENEFIT_Automation,2,1
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,BENEFIT_Decision_Making,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,CHALLENGE_Security,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,CHALLENGE_Cost,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,CHALLENGE_Reliability,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,CHALLENGE_Integration,0,0
+49,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,CHALLENGE_Human_Oversight,0,0
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,APPLICATION_Customer_Service,1,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,APPLICATION_Sales,0,0
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,APPLICATION_Marketing,0,0
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,APPLICATION_Operations,14,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,APPLICATION_Data_Analytics,0,0
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,BENEFIT_Productivity,26,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,BENEFIT_Cost_Efficiency,2,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,BENEFIT_Automation,20,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,BENEFIT_Decision_Making,0,0
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,CHALLENGE_Security,2,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,CHALLENGE_Cost,1,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,CHALLENGE_Reliability,1,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,CHALLENGE_Integration,3,1
+50,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,CHALLENGE_Human_Oversight,6,1

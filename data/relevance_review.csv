@@ -1,0 +1,64 @@
+﻿article_id,title,url,relevance_status
+1,AI Agents: Shaping the Future of Workforce Strategy,https://kpmg.com/us/en/articles/2025/ai-agents-shaping-talent-strategy.html,KEEP
+2,What are AI agents?,https://www.ibm.com/think/topics/ai-agents,KEEP
+3,How AI agents are rewriting productivity | IBM,https://www.ibm.com/new/product-blog/how-ai-agents-are-rewriting-productivity,KEEP
+4,"The future of work: AI agents as instruments, not co-workers",https://www.idc.com/resource-center/blog/the-future-of-work-ai-agents-as-instruments-no-co-workers/,KEEP
+5,"Agentic AI, explained | MIT Sloan",https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained,KEEP
+6,Generative AI Can Boost Productivity Without Replacing Workers,https://www.gsb.stanford.edu/insights/generative-ai-can-boost-productivity-without-replacing-workers,REVIEW
+7,MIT study reveals huge impact of AI agents on productivity,https://www.hcamag.com/us/specialization/employee-engagement/mit-study-reveals-huge-impact-of-ai-agents-on-productivity/540528,KEEP
+8,2025: The year the Frontier Firm is born,https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born,KEEP
+9,Who’s Adopting AI Agents—and What They’re Actually Doing With Them | Working Knowledge,https://www.library.hbs.edu/working-knowledge/whos-adopting-ai-agents-and-what-theyre-actually-doing-with-them,KEEP
+10,"Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html,KEEP
+11,Analyzing coding agent transcripts to upper bound productivity gains from AI agents,https://metr.org/notes/2026-02-17-exploratory-transcript-analysis-for-estimating-time-savings-from-coding-agents/,KEEP
+12,How employment is changing at Anthropic,https://www.anthropic.com/research/employment-at-anthropic,KEEP
+13,Unleashing the productivity revolution with AI agents that work across your entire stack | IBM,https://www.ibm.com/new/announcements/productivity-revolution-with-ai-agents-that-work-across-stack,KEEP
+14,"2026 Work Trend Index report: Agents, human agency, and opportunity",https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization,KEEP
+15,Enterprise AI Agents: Beyond Productivity | IBM,https://www.ibm.com/think/insights/enterprise-ai-agents,KEEP
+16,Agent Slop: The Hidden Productivity Risk in the Shift to Agentic AI | Built In,https://builtin.com/articles/agent-slop-work-productivity-issues,KEEP
+17,We are Changing our Developer Productivity Experiment Design,https://metr.org/blog/2026-02-24-uplift-update/,KEEP
+18,"AI-powered success—with more than 1,000 stories of customer transformation and innovation | The Microsoft Cloud Blog",https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/,EXCLUDE
+19,Real-world gen AI use cases from the world's leading organizations | Google Cloud Blog,https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders,EXCLUDE
+20,The AI Agent Hype Is Real. The Productivity Gains Aren’t,https://uk.pcmag.com/ai/163317/the-ai-agent-hype-is-real-the-productivity-gains-arent,KEEP
+21,Enabling customers to deliver production-ready AI agents at scale | Amazon Web Services,https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/,KEEP
+22,Catching AI’s mistakes is a mental burden – and a drag on productivity,https://theconversation.com/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity-291748,KEEP
+23,AI Agents Are Poised to Revolutionize Employee Productivity,https://slack.com/blog/productivity/ai-agents-are-poised-to-revolutionize-employee-productivity,KEEP
+24,This Week: AI Agents Untangle Work’s Hidden Friction,https://uctoday.com/this-week-ai-agents-untangle-works-hidden-friction,KEEP
+25,AI Workforce: How Artificial Intelligence Is Transforming Teams,https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team,KEEP
+26,AI agents at work: The new frontier in business automation | Microsoft Azure Blog,https://azure.microsoft.com/en-us/blog/ai-agents-at-work-the-new-frontier-in-business-automation/,KEEP
+27,24 AI Tools for Work to Increase Productivity,https://www.coursera.org/articles/ai-tools-for-work,EXCLUDE
+28,How IT leaders use agentic AI for business workflows,https://www.cio.com/article/3966870/how-it-leaders-use-agentic-ai-for-business-workflows.html,KEEP
+29,How Agentic AI Is Transforming Enterprise Platforms,https://www.bcg.com/publications/2025/how-agentic-ai-is-transforming-enterprise-platforms,KEEP
+30,How banks can supercharge intelligent automation with agentic AI,https://www.deloitte.com/us/en/insights/industry/financial-services/agentic-ai-banking.html,KEEP
+31,Agentic AI: The next wave of intelligent process automation,https://www.atos.ai/en/news-insights/blog/agentic-ai-next-wave-intelligent-process-automation,KEEP
+32,How to know a business process is ripe for agentic AI,https://www.cio.com/article/3829620/how-to-know-a-business-process-is-ripe-for-agentic-ai.html,KEEP
+33,How to navigate the age of agentic AI | MIT Sloan,https://mitsloan.mit.edu/ideas-made-to-matter/how-to-navigate-age-agentic-ai,KEEP
+34,AI Agents,https://www.bcg.com/capabilities/artificial-intelligence/ai-agents,KEEP
+35,Agentic AI: 11 promising use cases for business,https://www.cio.com/article/3603856/agentic-ai-promising-use-cases-for-business.html,KEEP
+36,The Benefits of AI for Business | IBM,https://www.ibm.com/think/insights/ai-for-business-benefits,KEEP
+37,Agentic AI Security Guide | IBM,https://www.ibm.com/think/insights/agentic-ai-security,KEEP
+38,"Enterprises that succeed in agentic AI start by ‘reimagining’ business process, finds Pega research | Computer Weekly",https://www.computerweekly.com/news/366643849/Enterprises-that-succeed-in-agentic-AI-start-by-reimagining-business-process-finds-Pega-research,KEEP
+39,What Is Artificial Intelligence (AI)? | IBM,https://www.ibm.com/think/topics/artificial-intelligence,EXCLUDE
+40,Agentic AI Automation: Four Use Cases and Benefits (2026) - Shopify South Africa,https://www.shopify.com/za/blog/agentic-ai-automation,KEEP
+41,How AI agents are shaping the future of work,https://www.cio.com/article/4189693/how-ai-agents-are-shaping-the-future-of-work.html,KEEP
+42,How will AI agents fit into the human workplace?,https://www.deloitte.com/global/en/insights/topics/technology-management/ai-agents-human-workplace.html,KEEP
+43,25 Ways AI Will Change the Future of Work,https://blog.workday.com/en-gb/25-ways-ai-will-change-the-future-of-work.html,KEEP
+44,AI and the Future of Work | IBM,https://www.ibm.com/think/insights/ai-and-the-future-of-work,REVIEW
+45,AI Agents Are About to Flood the Workforce. No One’s Ready for It,https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/,KEEP
+46,The Org Chart of the Future: Managing a Workforce of Humans and AI Agents,https://www.shrm.org/labs/resources/the-org-chart-of-the-future--managing-a-workforce-of-humans-and-ai-agents,KEEP
+47,Your Job Is Still Safe From AI Agents — for Now | Built In,https://builtin.com/articles/ai-agents-workplace-benchmark,REVIEW
+48,Rethinking Strategic Workforce Planning with AI Agents,https://kpmg.com/us/en/articles/2025/strategic-workforce-planning-with-ai-agents.html,KEEP
+49,Agentic AI isn’t just joining the workforce. It’s reshaping how organizations plan for it.,https://www.deloitte.com/us/en/insights/topics/talent/future-of-workforce-planning/autonomous-workforce-planning.html,KEEP
+50,AI in the Workplace | IBM,https://www.ibm.com/think/topics/ai-in-the-workplace,KEEP
+51,The agentic reality check: Preparing for a silicon-based workforce,https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/agentic-ai-strategy.html,KEEP
+52,AI Will Reshape More Jobs Than It Replaces,https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces,KEEP
+53,AI at Work: How human-agent teams will reshape your workforce,https://www.microsoft.com/en-us/worklab/ai-at-work-how-human-agent-teams-will-reshape-your-workforce,KEEP
+54,"AI agents and robots can already automate over 57% of U.S. work hours, but that doesn’t mean half of all jobs are endangered, McKinsey says | Fortune",https://fortune.com/2025/11/25/why-ai-wont-take-your-job-partnership-agents-robots-mckinsey/,KEEP
+55,How AI Impacts Students Entering the Job Market,https://www.stjohns.edu/news-media/johnnies-blog/ai-impact-students-entering-job-market,EXCLUDE
+56,The agentic reality gap: bridging promise and practice,https://www.deloitte.com/ro/en/Industries/technology/perspectives/agentic-reality-check-preparing-silicon-based-workforce.html,KEEP
+57,Message from CEO Andy Jassy: Some thoughts on Generative AI,https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-on-generative-ai,REVIEW
+58,AI's Human Impact: How Agentic Technology Is Reshaping Work,https://www.salesforce.com/news/stories/agentic-ai-impact-on-workforce/,KEEP
+59,The capability risk of agentic AI,https://www.chieflearningofficer.com/2026/10/07/the-capability-risk-of-agentic-ai/,KEEP
+60,Agentic AI is here | IBM,https://www.ibm.com/think/insights/agentic-ai-is-your-workforce-ready,KEEP
+61,Workday Delivers Next Wave of Agentic AI to Power the New Work Day,https://blog.workday.com/en-us/workday-delivers-next-wave-agentic-ai-power-new-work-day.html,KEEP
+62,The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI,https://sloanreview.mit.edu/projects/the-emerging-agentic-enterprise-how-leaders-must-navigate-a-new-age-of-ai/,KEEP
+63,How Entry-Level Jobs Are Being Reimagined in the Agentic AI Era,https://www.salesforce.com/news/stories/agentic-ai-reshaping-entry-level-jobs/,REVIEW
