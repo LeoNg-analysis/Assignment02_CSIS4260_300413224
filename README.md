@@ -14,7 +14,7 @@ The final dataset contains 50 articles published between 2024 and 2026.
 
 ## 2. Project Structure
 
-````text
+```text
 Assignment02_CSIS4260_300413224/
 Assignment02_CSIS4260_300413224/
 ├── data/
@@ -45,6 +45,7 @@ Assignment02_CSIS4260_300413224/
 ├── check_environment.py
 ├── requirements.txt
 └── README.md
+```
 
 _The directory listing above shows the main files. Additional scraping, verification, auditing, and validation scripts are included in the repository._
 
@@ -72,7 +73,50 @@ The model used unigrams and bigrams, English stop-word filtering, and a maximum 
 
 The results were saved to `data/tfidf_keywords.csv`.
 
-### 4.3 VADER Sentiment Analysis
+### 4.3 Importance Score and Direction
+
+To meet the assignment requirement of assigning a directional importance score to each article, a custom rule-based scoring method was developed using the results of business theme classification.
+
+The score combines thematic relevance with the balance between business benefits and challenges:
+
+**Relevance Score:**
+
+R = (B + C + A) / 14
+
+**Directional Importance Score:**
+
+S = R × (B − C) / (B + C)
+
+Where:
+
+- B = Number of benefit themes detected
+- C = Number of challenge themes detected
+- A = Number of application themes detected
+- 14 = Total number of predefined business themes
+
+When B + C = 0, the importance score is assigned a value of 0.
+
+**Score interpretation:**
+
+- Positive score: The article contains more benefit themes than challenge themes.
+- Negative score: The article contains more challenge themes than benefit themes.
+- Zero score (Balanced): Equal numbers of benefit and challenge themes, or neither category detected.
+
+**Results:**
+
+Among the 50 analyzed articles:
+
+- 34 articles (68%) received positive importance scores.
+- 12 articles (24%) received balanced scores.
+- 4 articles (8%) received negative importance scores.
+
+The final results are available in `data/article_summary_scores.csv`, which includes article URLs, TextRank summaries, importance scores, directional labels, and supporting NLP features.
+
+**Limitations:**
+
+This importance score is a heuristic based on the number of detected themes rather than their frequency, severity, or contextual meaning. All detected themes receive equal weight. Consequently, an article that strongly criticizes AI agents may still receive a balanced score if equal numbers of benefit and challenge themes are identified. The score should therefore be interpreted as a measure of thematic emphasis rather than a validated measure of author sentiment, business impact, or article quality.
+
+### 4.4 VADER Sentiment Analysis
 
 VADER was used to analyze the sentiment of article sentences.
 
@@ -80,7 +124,7 @@ Sentence-level compound scores were aggregated to produce article-level sentimen
 
 Results were saved to `data/sentiment_results.csv`.
 
-### 4.4 Business Theme Classification
+### 4.5 Business Theme Classification
 
 A rule-based keyword classification method identified 14 business themes across three categories:
 
@@ -90,7 +134,7 @@ A rule-based keyword classification method identified 14 business themes across 
 
 The results were saved to `data/business_themes.csv`.
 
-### 4.5 TextRank and MMR Summarization
+### 4.6 TextRank and MMR Summarization
 
 TextRank was used to identify important sentences through TF-IDF cosine similarity and graph-based PageRank.
 
@@ -142,7 +186,7 @@ See `part3_analysis/nlp_evaluation.md` for further discussion.
 
 ```bash
 python -m venv .venv
-````
+```
 
 Activate it on Windows Git Bash:
 
